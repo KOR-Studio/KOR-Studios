@@ -1,0 +1,20 @@
+[
+  {
+    "id": 6345078528,
+    "title": "Rags To Riches",
+    "description": "A game about becoming rich!",
+    "playing": 420,
+    "visits": 1500000,
+    "thumbnail": "Pictures/RTR.png",
+    "link": "https://www.roblox.com/games/18726327858"
+  },
+  {
+    "id": 8118809589,
+    "title": "Catch-n-Collect (BETA)",
+    "description": "Collect items and earn rewards!",
+    "playing": 120,
+    "visits": 250000,
+    "thumbnail": "Pictures/CNC.png",
+    "link": "https://www.roblox.com/games/125228123184929"
+  }
+]
